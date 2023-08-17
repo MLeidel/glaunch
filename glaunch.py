@@ -71,7 +71,9 @@ root.iconphoto(False, photo)
 root.protocol("WM_DELETE_WINDOW", on_closing)  # save position on exit
 root.attributes("-topmost", True)
 
-if len(sys.argv) == 1:  # with no arguments display the window caption bar
+if len(sys.argv) == 1:  # with no arguments don't display the window caption bar
     root.overrideredirect(True)
+    # with an argument the caption bar will display
+    # thus allowing you to position the window.
 
 root.mainloop()
