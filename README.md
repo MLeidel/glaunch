@@ -1,2 +1,2 @@
 # glaunch
-A little graphic launcher for the desktop
+A little (verticle) graphic launcher for the desktop
