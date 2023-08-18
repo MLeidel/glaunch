@@ -1,5 +1,5 @@
 # glaunch
-A little (verticle) graphic launcher (verticle) for the desktop.
+A little graphic launcher (verticle) for the desktop.
 
 >
 ![pic of glaunch](images/glaunch.png "glaunch")
