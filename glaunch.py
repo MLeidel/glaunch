@@ -1,7 +1,6 @@
 # glaunch.pyw
 # Michael Leidel (2020)
 from tkinter import *
-from tkinter import messagebox
 import webbrowser
 import subprocess
 import os, sys

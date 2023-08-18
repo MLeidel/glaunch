@@ -29,7 +29,10 @@ holds the window position geometry
 
 ---
 
+I've writen the program to use ___Nemo___ and ___Gedit___.  
 You can change and expand the program to your own specifications.
+
+---
 
 ## Use
 
